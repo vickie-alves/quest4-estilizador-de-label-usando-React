@@ -10,10 +10,15 @@ Este projeto é um desafio proposto pelo curso ***DevQuest***, com o objetivo de
 Além dos requisitos iniciais, o escopo foi expandido para incluir um campo de entrada de texto, um seletor de cores e melhorias visuais para proporcionar uma interface mais clara, organizada e interativa para o usuário.
 
 **Construção de componentes com *React*:** Estruturação da interface com componentes reutilizáveis e independentes, permitindo fácil manutenção e separação de responsabilidades entre estilização, exibição e implementação do texto como *label*.
+
 **Gerenciamento de *Props* e *States*:** Utilização do *hook* "*useState*" para capturar entradas do usuário e compartilhá-las entre os componentes, elevando *props* de estado através do componente-pai para manter a interatividade entre as partes do projeto.
+
 **Estilização Dinâmica (*Inline-Style*):** Aplicação de estilos CSS através de código JavaScript XML, acompanhando em tempo-real as atualizações de estado dentro dos componentes.
+
 ***CSS* Moderno:** Integração do Flexbox no layout, utilização de pseudo-elementos e animações para efeitos de feedback visual suaves, além de variáveis para melhor manutenção e reutilização dos estilos.
+
 ***Feedback* de *Interface* (*UX*):** Implementação de condições de execução para botões (disabled) e remoção do texto inicial após sua integração como *label*, para feedback processual das ações do usuário.
+
 ***Prop Drilling*:** Compartilhamento de estados e funções de *callback* entre componentes a partir do componente pai para sincronizar o estilizador de texto e o visualizador da prévia com o botão de alerta. Esse fluxo permite que ao gerar a *label*, a prévia seja ocultada e o texto editado seja aplicado ao botão. Apesar de funcional, este processo seria melhor executado através do *Context API* porém fora mantido desta forma para explorar o uso do *prop drilling* e *elevação de estados* com *React* básico.
 
 ## Como executar a aplicação localmente
@@ -66,22 +71,22 @@ Assim permitindo a visualização e utilização da aplicação.
 | **CSS3** | Estilização geral, layout Flexbox, pseudo-classes, animações e variáveis de estilo. |
 | **JavaScript (ES6+)** | Formulação de funções de *callback*, lógicas condicionais de execução e estilização dinâmica através de *inline-styling*. |
 | **React** | Implementação do *hook* de estados "*useState*", compartilhamento de dados por *props* e componentização da estrutura HTML da página. |
-! **Vite** ! Construção inicial do projeto e fornecimento de dependências |
+| **Vite** | Construção inicial do projeto e fornecimento de dependências |
 
 ## Screenshots
 
 | Estilizador (Início) | Estilizador (Destaque dos Inputs) | Estilizador (Texto Preenchido) |
 | :---: | :---: | :---: |
-| <img src="screenshots/home.png" alt="Screenshot da página inicialmente" height="500"/> | <img src="screenshots/highlight-input.png" alt="Screenshot da página, com destaque no campo de entrada de texto e no seletor de cores" height="500"/> | <img src="screenshots/text-input.png" alt="Screenshot da página, com um texto de teste inserido" height="500"/> |
+| <img src="screenshot/home.png" alt="Screenshot da página inicialmente" height="500"/> | <img src="screenshot/highlight-input.png" alt="Screenshot da página, com destaque no campo de entrada de texto e no seletor de cores" height="500"/> | <img src="screenshot/text-input.png" alt="Screenshot da página, com um texto de teste inserido" height="500"/> |
 | **Estilizador (Seleção de Cores)** | **Estilizador (Destaque do Botão de Estilizar)** | **Estilizador (Visualizar Prévia)** | 
-| <img src="screenshots/color-select.png" alt="Screenshot da página, com a aba de seleção de cores disponível" height="500"/> | <img src="screenshots/highlight-edit-button.png" alt="Screenshot da página, com destaque no botão de estilizar o texto inserido" height="500"/> | <img src="screenshots/edit-preview.png" alt="Screenshot da página, com a visualização do texto agora estilizado" height="500"/> |
+| <img src="screenshot/color-select.png" alt="Screenshot da página, com a aba de seleção de cores disponível" height="500"/> | <img src="screenshot/highlight-edit-button.png" alt="Screenshot da página, com destaque no botão de estilizar o texto inserido" height="500"/> | <img src="screenshot/edit-preview.png" alt="Screenshot da página, com a visualização do texto agora estilizado" height="500"/> |
 | **Estilizador (Destaque do Botão de Gerar Label)** | **Estilizador (Alerta)** | **Estilizador (Implementação da Label)** |
-| <img src="screenshots/highlight-label-button.png" alt="Screenshot da página, com destaque no botão de gerar a label" height="500"/> | <img src="screenshots/alert.png" alt="Screenshot da página, com um alerta de sucesso para a geração da label" height="500"/> | <img src="screenshots/label-message.png" alt="Screenshot da página, com a visualização da label agora gerada e uma mensagem de sucesso abaixo" height="500"/> |
+| <img src="screenshot/highlight-label-button.png" alt="Screenshot da página, com destaque no botão de gerar a label" height="500"/> | <img src="screenshot/alert.png" alt="Screenshot da página, com um alerta de sucesso para a geração da label" height="500"/> | <img src="screenshot/label-message.png" alt="Screenshot da página, com a visualização da label agora gerada e uma mensagem de sucesso abaixo" height="500"/> |
 
 
 ## Links
 
-* **Live Site URL:** (Adicionar o link da sua página hospedada (GitHub Pages, Vercel, Netlify, etc.))
+* **Live Site URL:** (vickie-alves.github.io/quest4-estilizador-de-label-usando-React/)
 
 ## Autor
 
