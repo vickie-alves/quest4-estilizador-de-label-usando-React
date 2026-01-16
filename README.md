@@ -77,11 +77,11 @@ Assim permitindo a visualização e utilização da aplicação.
 
 | Estilizador (Início) | Estilizador (Destaque dos Inputs) | Estilizador (Texto Preenchido) |
 | :---: | :---: | :---: |
-| <img src="screenshots/home.png" alt="Screenshot da página inicialmente" height="500"/> | <img src="screenshots/highlight-input.png" alt="Screenshot da página, com destaque no campo de entrada de texto e no seletor de cores" height="500"/> | <img src="screenshots/text-input.png" alt="Screenshot da página, com um texto de teste inserido" height="500"/> |
+| <img src="screenshot/home.png" alt="Screenshot da página inicialmente" height="500"/> | <img src="screenshot/highlight-input.png" alt="Screenshot da página, com destaque no campo de entrada de texto e no seletor de cores" height="500"/> | <img src="screenshot/text-input.png" alt="Screenshot da página, com um texto de teste inserido" height="500"/> |
 | **Estilizador (Seleção de Cores)** | **Estilizador (Destaque do Botão de Estilizar)** | **Estilizador (Visualizar Prévia)** | 
-| <img src="screenshots/color-select.png" alt="Screenshot da página, com a aba de seleção de cores disponível" height="500"/> | <img src="screenshots/highlight-edit-button.png" alt="Screenshot da página, com destaque no botão de estilizar o texto inserido" height="500"/> | <img src="screenshots/edit-preview.png" alt="Screenshot da página, com a visualização do texto agora estilizado" height="500"/> |
+| <img src="screenshot/color-select.png" alt="Screenshot da página, com a aba de seleção de cores disponível" height="500"/> | <img src="screenshot/highlight-edit-button.png" alt="Screenshot da página, com destaque no botão de estilizar o texto inserido" height="500"/> | <img src="screenshot/edit-preview.png" alt="Screenshot da página, com a visualização do texto agora estilizado" height="500"/> |
 | **Estilizador (Destaque do Botão de Gerar Label)** | **Estilizador (Alerta)** | **Estilizador (Implementação da Label)** |
-| <img src="screenshots/highlight-label-button.png" alt="Screenshot da página, com destaque no botão de gerar a label" height="500"/> | <img src="screenshots/alert.png" alt="Screenshot da página, com um alerta de sucesso para a geração da label" height="500"/> | <img src="screenshots/label-message.png" alt="Screenshot da página, com a visualização da label agora gerada e uma mensagem de sucesso abaixo" height="500"/> |
+| <img src="screenshot/highlight-label-button.png" alt="Screenshot da página, com destaque no botão de gerar a label" height="500"/> | <img src="screenshot/alert.png" alt="Screenshot da página, com um alerta de sucesso para a geração da label" height="500"/> | <img src="screenshot/label-message.png" alt="Screenshot da página, com a visualização da label agora gerada e uma mensagem de sucesso abaixo" height="500"/> |
 
 
 ## Links
