@@ -88,7 +88,7 @@ Assim permitindo a visualização e utilização da aplicação.
 
 ## Links
 
-* **Live Site URL:** [vickie-alves.github.io/quest4-estilizador-de-label-usando-React/](vickie-alves.github.io/quest4-estilizador-de-label-usando-React/)
+* **Live Site URL:** [https://vickie-alves.github.io/quest4-estilizador-de-label-usando-React/](https://vickie-alves.github.io/quest4-estilizador-de-label-usando-React/)
 
 ## Autor
 
