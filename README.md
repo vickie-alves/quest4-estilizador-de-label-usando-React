@@ -29,12 +29,12 @@ Para executar o projeto localmente, certifique-se de ter instalado em sua máqui
 
 Então clone o repositório:
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/vickie-alves/quest4-estilizador-de-label-usando-React
 ```
 
 Acesse a pasta do projeto:
 ```bash
-cd nome-do-projeto
+cd quest4-estilizador-de-label-usando-React
 ```
 
 Instale as dependências com o gerenciador de pacotes da sua escolha:
