@@ -1,0 +1,32 @@
+:root {
+  --backgroundColor: #333333;
+  --buttonBackgroundColor: #FFFFFF;
+  --darkFontColor: #242424;
+  --lightFontColor: #FFFFFF;
+  --darkBorderColor: #424242;
+  --rainbowEffect: linear-gradient(90deg, #FF0000, #FF7F00, #FFFF00, #00FF00, #00FFFF, #0000FF, #4B0082, #9400D3, #FF007F, #FFFFFF);
+  --smoothAnimation: all 0.3s ease-in-out;
+
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-size: 10px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--lightFontColor);
+
+  color-scheme: light dark;
+  background-color: var(--backgroundColor);
+
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+}
+
